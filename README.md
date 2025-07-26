@@ -247,6 +247,10 @@ The system provides:
 
 This project is for educational and research purposes. Please ensure compliance with API terms of service.
 
-## 🤝 Contributing
+## Author
 
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
+Alexander Mueller
+
+- GitHub: [alexmueller07](https://github.com/alexmueller07)
+- LinkedIn: [Alexander Mueller](https://www.linkedin.com/in/alexander-mueller-021658307/)
+- Email: amueller.code@gmail.com
