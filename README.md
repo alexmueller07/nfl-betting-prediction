@@ -15,6 +15,18 @@ A comprehensive machine learning system for predicting NFL game outcomes using h
   - Regression models for score prediction
 - **Feature Engineering**: Advanced feature creation including Elo ratings, rolling averages, and weather conditions
 
+---
+
+## Execution 
+
+![Screen Recording 2025-07-27 110236 (online-video-cutter com)](https://github.com/user-attachments/assets/ce5df8da-7e88-41e6-a6dd-c985a8263b71)
+
+Backtest: 
+
+<img width="374" height="326" alt="Screenshot 2025-07-27 110814" src="https://github.com/user-attachments/assets/cd5ebbe7-fd65-43fe-97b1-ebc071330710" />
+
+---
+
 ## 📋 Prerequisites
 
 ### API Keys Required
